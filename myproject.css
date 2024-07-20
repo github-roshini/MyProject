@@ -1,0 +1,70 @@
+.p-font{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p-footer{
+    margin-top:5.8pt; margin-right:0.75pt; margin-left:26.4pt; line-height:12.95pt
+}
+
+.p-input-head{
+    font-family:Calibri; font-size:10pt;
+}
+
+.p-footer-text{
+    font-family:Calibri; font-size:12pt
+}
+
+.p-footer-text2{
+    margin-left:25.45pt; text-align:justify; line-height:9.75pt
+}
+
+.p-footer-div{
+    background-color: black; color: white;     padding: 50px; display: flex;
+}
+
+.main-div{
+    margin-left: 150px;
+}
+
+.div-content{
+    padding-left: 70px; border: 2px solid;background: #ffcd9e; display: flex;
+}
+
+.div2{
+    width: 65%;
+}
+
+.p1{
+    margin-top:43.6pt;margin-bottom: 20px;font-weight: bold;
+}
+
+.p2{
+    margin-top:16.4pt; margin-left:0.5pt; text-align:justify; line-height:12.2pt ;font-weight: bolder;
+}
+.span1{
+    font-family:Calibri; font-size:17pt;
+}
+
+.input-div{
+    padding-top: 20px;     padding-bottom: 40px;
+}
+
+.input{
+    border: black solid;
+}
+
+.btn{
+    background-color: black; color:aliceblue;
+}
+
+.footer-div{
+    padding-left: 15%; padding-right:  30%;
+}
+
+.w-35{
+    width: 35%;
+}
+
+.w-300{
+    width: 300px;
+}
